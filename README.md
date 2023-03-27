@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @fra.ascenzi on Instagram
-- 💻 I'm into HTML, CSS, JavaScript, PHP, C, C++, Java, and C#
-- 🌱 I’m currently learning C, C++, Java, and C#
-- 💞️ I’m looking to collaborate on Netflix, or Google
-- 📫 DM me on Instagram at @fra.ascenzi
+# Francesco "Frash" Ascenzi
 
-See ya 👋
+👋 Hi, I’m @fra.ascenzi on Instagram
+
+### Coding skills
+💻 I'm into HTML, CSS, JavaScript, PHP, C, C++, Java, and C#
+
+### What I'm learning
+🌱 I’m currently learning C, C++, Java, and C#
+
+### Contacts
+📫 DM me on Instagram at @fra.ascenzi
