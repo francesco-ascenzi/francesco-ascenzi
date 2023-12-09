@@ -11,4 +11,4 @@ I'm currently learning C++, C#, and Java.
 I'm into SQL and MongoDB
 
 ### Contacts 📫
-DM me on Instagram at @frash.dev
+DM me on Instagram at [@frash.dev](https://www.instagram.com/frash.dev)
