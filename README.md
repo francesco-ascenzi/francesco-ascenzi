@@ -1,12 +1,11 @@
-# Francesco "Frash" Ascenzi
+# Francesco "Frash" Ascenzi 👋
 
-👋 Hi, I’m @fra.ascenzi on Instagram
+Hi, I’m an Italian software engineer at Focelda.  
+@frash.dev on Instagram.
 
-### Coding skills
-💻 I'm into HTML, CSS, JavaScript, PHP, C, C++, Java, and C#
+### Coding skills 💻
+I'm into HTML, CSS, JavaScript, PHP, and C.  
+I'm currently learning C++, Java, and C#.
 
-### What I'm learning
-🌱 I’m currently learning C, C++, Java, and C#
-
-### Contacts
-📫 DM me on Instagram at @fra.ascenzi
+### Contacts 📫
+DM me on Instagram at @frash.dev
