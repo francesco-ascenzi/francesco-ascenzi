@@ -18,8 +18,6 @@ Databases: **Db2, Maria, Inno, Mongo**
 OS: **Win, Linux (Ubuntu, Fedora)**  
 Versioning: **Git, GitHub, TortoiseSVN**
 </div>
-<br>
-
 <div align="center">
 
 # Stats 
