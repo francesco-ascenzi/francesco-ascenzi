@@ -11,7 +11,7 @@
 
 <div align="center">
 
-## Skills  
+# Skills  
 Stacks: **MERN and XAMPP**  
 Languages: **HTML, CSS, JavaScript, PHP, C/C++**  
 Databases: **Db2, Maria, Inno, Mongo**  
@@ -21,6 +21,9 @@ Versioning: **Git, GitHub, TortoiseSVN**
 <br>
 
 <div align="center">
+
+# Stats 
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francesco-ascenzi&langs_count=4" />
 </a>
