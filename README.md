@@ -1,7 +1,7 @@
 <div align="center">
 
 # Francesco "Frash" Ascenzi
-### Self-Taught Software Engineer
+### Self-Taught Software Developer
 
 </div>
 
