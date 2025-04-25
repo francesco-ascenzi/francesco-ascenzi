@@ -1,10 +1,9 @@
-<h1 align="center">Hey, <a href="">Frash</a> here!</h1>
+<h1 align="center">👊 Hey, <a href="">Frash</a> here!</h1>
 <p align="center">Self-taught software developer from Italy</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/francesco-ascenzi-software-developer" target="blank">linkedin</a> &middot; <a href="https://instagram.com/frashenzi" target="blank">instagram</a> &middot; <a href="https://www.youtube.com/@francescoascenzi" target="blank">youtube</a>
 </p>
-<br>
 <br>
 
 <h4 align="center">support me with a small donation to my <a href="https://www.paypal.com/donate/?hosted_button_id=QL4PRUX9K9Y6A" target="_blank">PayPal</a></h4>
