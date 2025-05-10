@@ -6,7 +6,6 @@
 </p>
 <br>
 
-<h4 align="center">support me with a small donation to my <a href="https://www.paypal.com/donate/?hosted_button_id=QL4PRUX9K9Y6A" target="_blank">PayPal</a></h4>
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=francesco-ascenzi&hide-border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=francesco-ascenzi&show_icons=true&locale=en&layout=compact" />
