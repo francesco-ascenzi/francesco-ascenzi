@@ -1,4 +1,4 @@
-<h1 align="center">👊 Hey, <a href="">Frash</a> here!</h1>
+<h1 align="center">👊🏻 Hey, <a href="">Frash</a> here!</h1>
 <p align="center">Self-taught software developer from Rome, Italy</p>
 
 <p align="center">
